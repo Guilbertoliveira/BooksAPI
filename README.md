@@ -1,6 +1,7 @@
 <h1 align="center">BooksAPI </h1>
 
 <h2>:hammer:Project Status:hammer:</h2>
+<p>Project under construction</p>
 
 <h2>Project description</h2>
 <p>Searching for books by request</p>
