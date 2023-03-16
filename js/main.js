@@ -1,17 +1,18 @@
-let livros = [];
+let resconvert = [];
 const urlapi = 'https://guilhermeonrails.github.io/casadocodigo/livros.json';
 getBuscarLivros()
 
 
 async function getBuscarLivros() {
     const res = await fetch(urlapi);
-    const resconvert = await res.json();
+    resconvert = await res.json();
 
-    let livrosComDesconto = aplicarDesconto(resconvert);
+    const livrosComDesconto = aplicarDesconto(resconvert);
+
 
     exibirLivros (livrosComDesconto);
 
-
+  
 
 }
 
