@@ -1,4 +1,9 @@
-<h1 align="center">BooksAPI </h1>
+<div align="center"><img src="https://github.com/Guilbertoliveira/BooksAPI/blob/main/imagens/book.png" width="55px">
+<h1>BooksAPI </h1></div>
+<div align="center"><img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Guilbertoliveira/BooksAPI" />
+<img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Guilbertoliveira/BooksAPI" />
+<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Guilbertoliveira/BooksAPI" />
+<img alt="Github License" src="https://img.shields.io/github/license/Guilbertoliveira/BooksAPI" /></div>
 
 <h2>:hammer:Project Status:hammer:</h2>
 <p>Initial project underwent several improvements after finalization related to designer, responsiveness and improved code. Finished project.</p>
