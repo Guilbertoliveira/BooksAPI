@@ -4,7 +4,7 @@
 <p>Project under construction</p>
 
 <h2>Project description</h2>
-<p>Searching for books by request</p>
+<p>The project is part of Alura's course, but I used different code to achieve the same goal, I used the project as a challenge, searching for books by request</p>
 <h2 >Version Mobile</h2>
 
 <h2>Version Desktop</h2>
