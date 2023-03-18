@@ -21,7 +21,6 @@ body {
 
 .header {
   text-align: center;
-  width: 100%;
   background-color: var(--bg-color);
   margin: 15px 15px;
 }
@@ -157,5 +156,59 @@ body {
   color: #fff;
   font-weight: 500;
   line-height: 24px;
+}
+
+@media screen and (max-width: 480px) {
+ 
+  .header{
+    width: 100vw;
+    margin: 15px 0px;
+  }
+
+  
+  .wrap {
+    width: 100vw;
+    
+  }
+  .nav{
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-content: start;
+    height: 20vh;
+    margin: 10px 0px;
+    gap: 5px;
+    padding-left: 10px;
+  }
+
+  .btn {
+    width: 45vw;
+    height: 50px;
+  }
+
+  #livros{
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(var(--bg-color), var(--text-price-color) 40%, var(--button-color)80%); 
+
+  }
+
+  .livro__preco{
+    color: var(--bg-color);
+  }
+
+  .livros__disponiveis {
+    height: 15vh;
+
+  }
+
+  .livros__disponiveis p {
+    line-height: 24px;
+    font-size: 24px;
+    width: 90vw;
+    
+  }
+
+
 }
 
