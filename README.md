@@ -6,7 +6,8 @@
 <h2>Project description</h2>
 <p>The project is part of Alura's course, but I used different code to achieve the same goal, I used the project as a challenge, searching for books by request</p>
 <h2 >Version Mobile</h2>
-
+<p>Mobile version made by me as a form of improvement</p>
+<img src="https://user-images.githubusercontent.com/41201436/226135455-ec977035-9f11-4334-aa96-1718d9c89d35.gif">
 <h2>Version Desktop</h2>
 
 <h2>Technologies used</h2>
@@ -21,3 +22,4 @@
 
 <h2> Project link </h2>
 <a href="https://books-api-ruby.vercel.app/">Link Vercel</a>
+
