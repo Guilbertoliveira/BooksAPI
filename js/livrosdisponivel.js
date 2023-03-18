@@ -9,6 +9,6 @@ btnDisponivel.addEventListener('click', ()=> {
     console.table()
     exibirLivros(aplicarDesconto(livrosDisponivel));
     
-       
+    total(aplicarDesconto(livrosDisponivel));
     } ) 
     
